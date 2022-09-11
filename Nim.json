@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "Name": "Nim",
+            "Password": "Nim@123",
+            "Profile": {
+                "Description": "I am a girl",
+                "D.O.B": "3 11 1999",
+                "Gender": "Female",
+                "Hobbies": "Reading"
+            }
+        }
+    ]
+}

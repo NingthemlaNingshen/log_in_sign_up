@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "Name": "kim",
+            "Password": "kim@123",
+            "Profile": {
+                "Description": "I am a happy girl",
+                "D.O.B": "1 12 1998",
+                "Gender": "Female",
+                "Hobbies": "playing"
+            }
+        }
+    ]
+}
